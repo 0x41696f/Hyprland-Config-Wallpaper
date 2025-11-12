@@ -7,18 +7,21 @@ A curated collection of high-quality wallpapers optimized for my Hyprland config
 This repository contains carefully selected wallpapers organized by style and theme, specifically chosen to complement Hyprland's modern compositing capabilities and vibrant aesthetic.
 Categories
 
-    Abstract - Dynamic patterns and geometric designs
+    Retro Modernism
 
-    Nature - Landscapes and natural scenes
+    Modern
 
-    Cyberpunk - Neon-lit futuristic cityscapes
+    Nature
+    
+    Cyberpunk
 
-    Minimal - Clean and simple designs
+    Minimal
 
-    Retro - Vintage and nostalgic themes
+    Retro
 
-    Gaming - Game-inspired artwork
+    Gaming
 
-    Anime - Japanese animation style artwork
+    Simple
+
 
 *My Hyprland config repo isn't public yet, this will be updated with the link once the repo is public*
